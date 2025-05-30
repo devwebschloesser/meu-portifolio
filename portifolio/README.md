@@ -49,15 +49,6 @@ Cards interativos dos projetos com preview e repositório
 <br>
 
 
-| Projeto                    | Tecnologias           | Deploy                                                              |
-| -------------------------- | --------------------- | ------------------------------------------------------------------- |
-| Burguer Page               | HTML, CSS, JavaScript | [Ver]([https://devwebschloesser.github.io/burguer/projeto-burguer/](https://devwebschloesser.github.io/burguer/projeto-burguer/index.html))  |
-| Nike Landing Page          | HTML, CSS, JavaScript | [Ver]([https://devwebschloesser.github.io/page-nike/](https://devwebschloesser.github.io/page-nike/Shoes%20Websit/index.html#))                |
-| Darkbeats                  | HTML, CSS, JavaScript | [Ver]([https://devwebschloesser.github.io/darkbeats/darkbeats/Dark/](https://devwebschloesser.github.io/darkbeats/darkbeats/Dark/index.html)) |
-| DevLinks                   | HTML, CSS, JavaScript | [Ver]([https://mateusskv9.github.io/projeto-devlinks/](https://devwebschloesser.github.io/devlinks/devlinks/projeto-devlinks/index.html))               |
-| Restaurante "Sabor & Arte" | HTML, CSS, JavaScript | [Ver]([https://devwebschloesser.github.io/restaurant-page/](https://devwebschloesser.github.io/restaurant-page/))          |
-
-
 
 <br>
 
