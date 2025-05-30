@@ -1,7 +1,6 @@
 ## Portfólio Web - Leonardo Schloesser 🌐
 Este é o meu portfólio pessoal desenvolvido com foco em apresentar minhas habilidades como desenvolvedor web. O site é totalmente responsivo, moderno, e visa destacar projetos, certificações, tecnologias dominadas e formas de contato.
 
-🔗 Acesse o Portfólio
 
 
 ### 🧠 Sobre o Projeto
@@ -52,11 +51,11 @@ Cards interativos dos projetos com preview e repositório
 
 | Projeto                    | Tecnologias           | Deploy                                                              |
 | -------------------------- | --------------------- | ------------------------------------------------------------------- |
-| Burguer Page               | HTML, CSS, JavaScript | [Ver](https://devwebschloesser.github.io/burguer/projeto-burguer/)  |
-| Nike Landing Page          | HTML, CSS, JavaScript | [Ver](https://devwebschloesser.github.io/page-nike/)                |
-| Darkbeats                  | HTML, CSS, JavaScript | [Ver](https://devwebschloesser.github.io/darkbeats/darkbeats/Dark/) |
-| DevLinks                   | HTML, CSS, JavaScript | [Ver](https://mateusskv9.github.io/projeto-devlinks/)               |
-| Restaurante "Sabor & Arte" | HTML, CSS, JavaScript | [Ver](https://devwebschloesser.github.io/restaurant-page/)          |
+| Burguer Page               | HTML, CSS, JavaScript | [Ver]([https://devwebschloesser.github.io/burguer/projeto-burguer/](https://devwebschloesser.github.io/burguer/projeto-burguer/index.html))  |
+| Nike Landing Page          | HTML, CSS, JavaScript | [Ver]([https://devwebschloesser.github.io/page-nike/](https://devwebschloesser.github.io/page-nike/Shoes%20Websit/index.html#))                |
+| Darkbeats                  | HTML, CSS, JavaScript | [Ver]([https://devwebschloesser.github.io/darkbeats/darkbeats/Dark/](https://devwebschloesser.github.io/darkbeats/darkbeats/Dark/index.html)) |
+| DevLinks                   | HTML, CSS, JavaScript | [Ver]([https://mateusskv9.github.io/projeto-devlinks/](https://devwebschloesser.github.io/devlinks/devlinks/projeto-devlinks/index.html))               |
+| Restaurante "Sabor & Arte" | HTML, CSS, JavaScript | [Ver]([https://devwebschloesser.github.io/restaurant-page/](https://devwebschloesser.github.io/restaurant-page/))          |
 
 
 
